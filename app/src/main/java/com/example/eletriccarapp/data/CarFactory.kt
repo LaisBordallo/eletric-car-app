@@ -7,7 +7,7 @@ object CarFactory {
     val list = listOf(
         Carro(
             id = 1,
-            preco = "R$ 300.000,00",
+            preco = "R$ 300.000,000",
             bateria = "300 kWh",
             potencia = "200cv",
             recarga = "30 min",
