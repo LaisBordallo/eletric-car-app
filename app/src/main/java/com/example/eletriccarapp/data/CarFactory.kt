@@ -10,7 +10,7 @@ object CarFactory {
             preco = "R$ 300.000,00",
             bateria = "300 kWh",
             potencia = "200cv",
-            recarga = "30 min",
+            recarga = "35 min",
             urlPhoto = "www.google.com.br",
             isFavorite = false,
         ),
